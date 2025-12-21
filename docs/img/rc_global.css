@@ -123,6 +123,22 @@ body.body_contact_html  { background-color:#FDFEF8; padding:0;  margin: 0; }
 #heading_552d7807 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Arial Black', Gadget, sans-serif; color:#5D5D9E; text-align:center; font-weight:bold; text-decoration:underline;  }
 #menu_6f123cbb { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#E5E5E5; background: linear-gradient(to bottom, #FFFFFF, #E5E5E5); border: 1px solid #A0A0A0;  }
 #placeh_56d2fcb6 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:180px;  }
+#container_157c0625 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_157c0625_padding { margin: 10px; display: block;  }
+#form_24ad08ac { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#form_24ad08ac_padding { margin: 10px; display: block;  }
+#label_45c793e9 { vertical-align: top; position:relative; display: inline-block; background:none; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left; font-weight:bold;  }
+#edit_7b322585 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 10px 10px;width:150px; height:30px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#label_5a940f7f { vertical-align: top; position:relative; display: inline-block; background:none; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#edit_278a91bc { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 10px 28px;width:150px; height:30px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#label_7fa21dec { vertical-align: top; position:relative; display: inline-block; background:none; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#edit_5ce8949f { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 10px 18px;width:150px; height:30px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#label_548ef2b6 { vertical-align: top; position:relative; display: inline-block; background:none; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#edit_50693a0d { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; margin:0px 0px 10px 32px;width:150px; height:30px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#label_65637dac { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left; font-weight:bold;  }
+#label_65637dac_padding { margin: 0px 0px 10px 0px;display: block;  }
+#edit_1f58b967 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:210px; height:90px; background-color:#FFFFFF; border: 1px solid #A0A0A0; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#button_4d42a83f { vertical-align: bottom; position:relative; display: inline-block; width:100px; height:30px; font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 .body_funnysentences_html a { color:#5D5D9E; } 
 .body_funnysentences_html a:visited { color:#5D5D9E; } 
 .body_funnysentences_html a:active { color:#5C615E; } 
@@ -313,7 +329,7 @@ body.body_stories_daviddoesnotlikeschool_html  { background-color:#FDFEF8; paddi
 .body_stories_daviddoesnotlikeschool-fr_html a:visited { color:#5D5D9E; } 
 .body_stories_daviddoesnotlikeschool-fr_html a:active { color:#5C615E; } 
 .body_stories_daviddoesnotlikeschool-fr_html a:hover { color:#B2B3B4; } 
-#gallery_5d9ab79c div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 25%; height: auto; padding: 10px; font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:center;  } 
+#gallery_5d9ab79c div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 25%; height: auto; padding: 20px; font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:center;  } 
 #gallery_5d9ab79c div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
 @media only screen and (max-width:650px) { #gallery_5d9ab79c div.galleryimgcontainer { width: 33%; } } 
 @media only screen and (max-width:800px) { #gallery_5d9ab79c div.galleryimgcontainer { width: 50%; } } 
