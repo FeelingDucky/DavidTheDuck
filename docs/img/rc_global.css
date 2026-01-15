@@ -94,9 +94,10 @@ body.body_stories_html  { background-color:#FDFEF8; padding:0;  margin: 0; }
 #placeh_56d2fcb6 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:180px;  }
 #container_59299990 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_59299990_padding { margin: 10px; display: block;  }
-#table_9954efc { box-sizing: border-box; vertical-align: top; position:relative; display: inline-table; width:90%; height:102px; background:none; border: 1px solid #CECECE; table-layout: fixed;  }
+#table_9954efc { box-sizing: border-box; vertical-align: top; position:relative; display: inline-table; width:90%; height:122px; background:none; border: 1px solid #CECECE; table-layout: fixed;  }
 #cell_491a62e6 {  }
 #cell_18a61349 {  }
+#cell_66981399 {  }
 #cell_66981399 {  }
 .body_contact_html a { color:#5D5D9E; } 
 .body_contact_html a:visited { color:#5D5D9E; } 
@@ -359,3 +360,31 @@ body.body_stories_daviddoesnotlikeschool-fr_html  { background-color:#FDFEF8; pa
 #placeh_56d2fcb6 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:180px;  }
 #heading_ea3b47e { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
 #gallery_5d9ab79c { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+.body_stories_davidlovesmakingsandcastles_html a { color:#5D5D9E; } 
+.body_stories_davidlovesmakingsandcastles_html a:visited { color:#5D5D9E; } 
+.body_stories_davidlovesmakingsandcastles_html a:active { color:#5C615E; } 
+.body_stories_davidlovesmakingsandcastles_html a:hover { color:#B2B3B4; } 
+#menu_6f123cbb a { text-decoration: none; }
+#menu_6f123cbb_pane { background-color: #E6E6E6; border: 1px solid #E6E6E6; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_6f123cbb_hr { background-color: #E6E6E6; height: 1px; border: none; }
+#menu_6f123cbb_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_6f123cbb_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_6f123cbb_entry:hover span { color:#FFFFFF !important; }
+		.menu_6f123cbb_mainMenuEntry { text-align: center; }
+		.menu_6f123cbb_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_6f123cbb_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_6f123cbb .mobileEntry { display: none; } 
+		#menu_6f123cbb .normalEntry { display: block; } 
+		@media only screen and (max-width:600px) { 
+			#menu_6f123cbb .mobileEntry { display: block; } 
+			#menu_6f123cbb .normalEntry { display: none; } 
+		}
+body.body_stories_davidlovesmakingsandcastles_html  { background-color:#FDFEF8; padding:0;  margin: 0; }
+#container_597592f2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:92px; background-color:#FDFEF8;  }
+#container_597592f2_padding { margin: 10px; display: block;  }
+#heading_552d7807 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Arial Black', Gadget, sans-serif; color:#5D5D9E; text-align:center; font-weight:bold; text-decoration:underline;  }
+#menu_6f123cbb { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#E5E5E5; background: linear-gradient(to bottom, #FFFFFF, #E5E5E5); border: 1px solid #A0A0A0;  }
+#placeh_56d2fcb6 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:180px;  }
+#heading_7adb11cf { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#container_4d48ee41 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:150px; background:none;  }
+#container_4d48ee41_padding { margin: 10px; display: block;  }
