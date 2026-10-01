@@ -285,7 +285,7 @@ body.body_fanart_html  { background-color:#FDFEF8; padding:0;  margin: 0; }
 #placeh_56d2fcb6 { vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:180px;  }
 #container_66e929c9 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_66e929c9_padding { margin: 10px; display: block;  }
-#gallery_6d14fdfd { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%;  }
+#gallery_6d14fdfd { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:100%; min-height:1739px;  }
 .body_stories_davidlearnstofly_html a { color:#5D5D9E; } 
 .body_stories_davidlearnstofly_html a:visited { color:#5D5D9E; } 
 .body_stories_davidlearnstofly_html a:active { color:#5C615E; } 
